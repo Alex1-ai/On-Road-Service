@@ -19,6 +19,5 @@ Welcome to the Roadside Assistance Connector project! This is a full-stack Djang
 - **User Registration:** Users can create accounts, providing their contact information and vehicle details for a personalized experience.
 - **Service Provider Listings:** Browse a directory of nearby vehicle assistance companies, including their contact details, services offered, and user reviews.
 - **Service Requests:** Users can submit service requests, specifying their location and the type of assistance needed (e.g., towing, tire change, jump-start).
-- **Real-time Assistance:** Service providers receive and respond to service requests in real-time, ensuring timely assistance.
 - **Rating and Reviews:** Users can rate and leave reviews for service providers, helping others make informed decisions.
 
